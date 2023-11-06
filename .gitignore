@@ -2,3 +2,4 @@ venv/
 dataset/
 spacy/
 ft_freqprune_400K_100K_pq_300.bin
+.idea/
