@@ -1,0 +1,9 @@
+{
+  "labels":[
+    "normal",
+    "insult",
+    "threat",
+    "obscenity"
+  ],
+  "threshold":0.5
+}
