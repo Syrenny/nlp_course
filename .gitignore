@@ -1,5 +1,6 @@
 venv/ 
 dataset/
 spacy/
-ft_freqprune_400K_100K_pq_300.bin
+geowac_lemmas_none_fasttextskipgram_300_5_2020/
 .idea/
+tb_logs/
